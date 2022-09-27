@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Projekat1</string>
+    <string name="ticket_type">Ticket type</string>
+    <string name="priority">Priority</string>
+    <string name="estimation">Estimation</string>
+    <string name="logged_time">Logged time</string>
+    <string name="ticket_desc">Ticket desc.</string>
+    <string name="jira_system_for_raf_nstudents">Jira system for Raf\nstudents</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login">Login</string>
+    <string name="todo">ToDo</string>
+    <string name="in_progress">In progress</string>
+    <string name="done">Done</string>
+    <string name="enchancements">Enchancements</string>
+    <string name="bugs">Bugs</string>
+    <string name="log_out">Log out</string>
+    <string name="add_new_ticket">Add new ticket</string>
+    <string name="ticket_title">Ticket title</string>
+    <string name="est">Est.</string>
+    <string name="ticket_description">Ticket description</string>
+    <string name="todoCapital">TODO</string>
+    <string name="in_progressCapital">IN-PROGRESS</string>
+    <string name="doneCapital">DONE</string>
+    <string name="search">Search...</string>
+    <string-array name="priorities">
+        <item>Lowest</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Highest</item>
+    </string-array>
+    <string-array name="types">
+        <item>Bug</item>
+        <item>Enhancement</item>
+    </string-array>
+</resources>

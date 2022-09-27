@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekat1</string>
+    <string name="ticket_type">Tip tiketa</string>
+    <string name="priority">Prioritet</string>
+    <string name="estimation">Procena</string>
+    <string name="logged_time">Logovano vreme</string>
+    <string name="ticket_desc">Opis tiketa</string>
+    <string name="jira_system_for_raf_nstudents">Jira sistem za Rafove studente</string>
+    <string name="login">Logovanje</string>
+    <string name="todo">Uraditi</string>
+    <string name="in_progress">U procesu</string>
+    <string name="done">Gotovo</string>
+    <string name="enchancements">Poboljsanja</string>
+    <string name="bugs">Bagovi</string>
+    <string name="log_out">Izloguj se</string>
+    <string name="add_new_ticket">Novi tiket</string>
+    <string name="ticket_title">Naslov tiketa</string>
+    <string name="est">Otp.</string>
+    <string name="ticket_description">Opis tiketa</string>
+    <string name="todoCapital">URADITI</string>
+    <string name="in_progressCapital">U PROCESU</string>
+    <string name="doneCapital">GOTOVO</string>
+    <string name="search">Pretraga...</string>
+</resources>
